@@ -1,7 +1,6 @@
 # -DVD-Rental-Duration-Prediction
 Machine learning project predicting DVD rental duration using regression models. Achieved MSE = 2.22 with RandomForestRegressor.
-# dvd_rental_model.py
-
+# Procedures Taken
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
